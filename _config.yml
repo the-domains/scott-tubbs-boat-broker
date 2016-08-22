@@ -1,4 +1,3 @@
-layout_spectrum: 0.3367219485808164
 typography_spectrum: 0.0606514245737344
 color:
   brandStrength: 0.40350308921188116
@@ -6,9 +5,11 @@ color:
   saturation: 0.7382349092513323
   rhythmicContrast: 0.36032352433539927
   brandColors:
-    - '#F9F9F9'
-    - '#AFCAE5'
-    - '#001020'
-    - '#007ABD'
-    - '#3F5722'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.3367219485808164
 name: Scott Tubbs Boat Broker
+description: Licensed Yacht Broker
