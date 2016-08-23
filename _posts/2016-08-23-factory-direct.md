@@ -4,18 +4,17 @@ description: >-
   variety of PREMIMUM BOAT BRANDS. This unique factory to dealer relationship
   offers NO HAGGLE pricing for consumers and NO DEALER MARKUP like average
   dealerships.
-dateModified: '2016-08-23T08:03:30.127Z'
-datePublished: '2016-08-23T08:20:12.695Z'
+dateModified: '2016-08-23T08:23:50.921Z'
+datePublished: '2016-08-23T08:23:51.324Z'
 title: Factory Direct
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-factory-direct.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: factory-direct/index.html
+_type: Blurb
 
 ---
 # Factory Direct
