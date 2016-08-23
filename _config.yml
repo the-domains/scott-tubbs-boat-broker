@@ -25,5 +25,8 @@ navigation:
   - name: Financing
     id: 3f2374ed-fc10-4707-af54-c84b66ab9cb4
     type: content
+  - name: Factory Direct
+    id: 97b696c6-c21f-419b-8fec-6f64f767f2a4
+    type: content
 title: Scott Tubbs
 description: Licensed Yacht Broker
