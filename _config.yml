@@ -19,5 +19,8 @@ navigation:
   - name: About Your Broker
     id: 71791ca7-7cda-41dd-9287-c3f7c2170894
     type: content
+  - name: Boat Search Service
+    id: fb670f81-7da4-47b2-af92-04f1667c5e16
+    type: content
 title: Scott Tubbs
 description: Licensed Yacht Broker
