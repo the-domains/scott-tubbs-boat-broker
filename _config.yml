@@ -22,5 +22,8 @@ navigation:
   - name: Boat Search Service
     id: fb670f81-7da4-47b2-af92-04f1667c5e16
     type: content
+  - name: Financing
+    id: 3f2374ed-fc10-4707-af54-c84b66ab9cb4
+    type: content
 title: Scott Tubbs
 description: Licensed Yacht Broker
