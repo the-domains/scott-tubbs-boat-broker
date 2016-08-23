@@ -2,18 +2,17 @@
 description: >-
   I’m a Licensed Yacht Broker in the state of Florida and a member of the
   Florida Yacht Broker's Association.
-dateModified: '2016-08-23T08:14:39.654Z'
-datePublished: '2016-08-23T08:19:52.184Z'
+dateModified: '2016-08-23T08:22:38.612Z'
+datePublished: '2016-08-23T08:22:39.011Z'
 title: About Your Broker
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-about-your-broker.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: about-your-broker/index.html
+_type: Blurb
 
 ---
 # About Your Broker
