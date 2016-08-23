@@ -4,18 +4,17 @@ description: >-
   consuming only to learn the buyer is less than eligible to make the purchase.
   We eliminate the dreamers from the doers and bring qualified candidates as
   prospects to the purchasing table.
-dateModified: '2016-08-23T07:47:44.418Z'
-datePublished: '2016-08-23T07:47:54.103Z'
+dateModified: '2016-08-23T08:18:34.387Z'
+datePublished: '2016-08-23T08:18:35.110Z'
 title: 'Brokerage Service: Selling you boat'
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-brokerage-service-selling-you-boat.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: brokerage-service-selling-you-boat/index.html
+_type: Blurb
 
 ---
 # Brokerage Service: Selling you boat
