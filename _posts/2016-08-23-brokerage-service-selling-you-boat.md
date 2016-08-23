@@ -1,24 +1,24 @@
 ---
+datePublished: '2016-08-23T08:24:37.101Z'
+sourcePath: _posts/2016-08-23-brokerage-service-selling-you-boat.md
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-23T08:24:36.591Z'
+title: 'Brokerage Service: Selling for you'
+publisher: {}
 description: >-
   Navigating the sea’s of prospective buyers can be exhaustive and time
   consuming only to learn the buyer is less than eligible to make the purchase.
   We eliminate the dreamers from the doers and bring qualified candidates as
   prospects to the purchasing table.
-dateModified: '2016-08-23T08:18:34.387Z'
-datePublished: '2016-08-23T08:18:35.110Z'
-title: 'Brokerage Service: Selling you boat'
-author: []
-publisher: {}
-via: {}
-sourcePath: _posts/2016-08-23-brokerage-service-selling-you-boat.md
-hasPage: true
 starred: false
 url: brokerage-service-selling-you-boat/index.html
 _type: Blurb
 
 ---
-# Brokerage Service: Selling you boat
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c49e2434b1ec9554048e20c0286872c6/croprotate.png?cropheight=490&cropwidth=554&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4ab23ac9-d8a7-4dce-8621-be5ae0f74cb1.png&x=5&y=0)
+# Brokerage Service: Selling for you
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0afb29fcb3f348f26fbe119879c0847508385283.png)
 
 Navigating the sea's of prospective buyers can be exhaustive and time consuming only to learn the buyer is less than eligible to make the purchase. We eliminate the dreamers from the doers and bring qualified candidates as prospects to the purchasing table.
 
