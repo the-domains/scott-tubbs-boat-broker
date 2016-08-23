@@ -12,5 +12,9 @@ color:
     - '#004E98'
 layout_spectrum: 0.3367219485808164
 name: Scott Tubbs Boat Broker
+navigation:
+  - name: Brokerage Service
+    id: 131b1a6a-adf5-4be9-b9f9-f27aa7dd41d9
+    type: content
 title: Scott Tubbs
 description: Licensed Yacht Broker
