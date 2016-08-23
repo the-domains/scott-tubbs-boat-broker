@@ -11,10 +11,13 @@ color:
     - '#3A6EA5'
     - '#004E98'
 layout_spectrum: 0.3367219485808164
-name: Scott Tubbs Boat Broker
+name: IMG Yachts
 navigation:
   - name: Brokerage Service
     id: 131b1a6a-adf5-4be9-b9f9-f27aa7dd41d9
+    type: content
+  - name: About Your Broker
+    id: 71791ca7-7cda-41dd-9287-c3f7c2170894
     type: content
 title: Scott Tubbs
 description: Licensed Yacht Broker
