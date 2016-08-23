@@ -3,18 +3,17 @@ description: >-
   If you are shopping for your next boat, or your first boat, we will work hard
   to help you find exactly what you want. We will be your advocate and protect
   your interests during every step of the transaction.
-dateModified: '2016-08-23T08:00:32.989Z'
-datePublished: '2016-08-23T08:20:35.037Z'
+dateModified: '2016-08-23T08:23:16.957Z'
+datePublished: '2016-08-23T08:23:18.380Z'
 title: Boat Search Service
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-boat-search-service.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: boat-search-service/index.html
+_type: Blurb
 
 ---
 # Boat Search Service
