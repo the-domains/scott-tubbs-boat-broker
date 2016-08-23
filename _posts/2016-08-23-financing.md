@@ -3,18 +3,17 @@ description: >-
   Whether you’re buying new or pre-owned, we have financing options for you. Our
   lending partners focus on marine lending - which is not the norm for big-box
   chains and credit unions. 
-dateModified: '2016-08-23T07:57:05.310Z'
-datePublished: '2016-08-23T08:22:00.605Z'
+dateModified: '2016-08-23T08:23:36.527Z'
+datePublished: '2016-08-23T08:23:37.317Z'
 title: Financing
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-financing.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: financing/index.html
+_type: Blurb
 
 ---
 # Financing
